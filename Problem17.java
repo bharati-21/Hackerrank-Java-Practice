@@ -5,7 +5,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-string-compare/problem
 // Solution :
 
 import java.util.Scanner;
-public class Solution {
+public class Problem17 {
     public static String getSmallestAndLargest(String s, int k) {
         String smallest = s;
         String largest = "";
