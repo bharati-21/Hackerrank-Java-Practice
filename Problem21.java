@@ -7,7 +7,7 @@ Problem Link : https://www.hackerrank.com/challenges/pattern-syntax-checker/prob
 import java.util.Scanner;
 import java.util.regex.*;
 
-public class Problem21Updated Problem10.java {
+public class Problem21 {
 	  public static void main(String[] args) {
 		    Scanner in = new Scanner(System.in);
 		    int testCases = Integer.parseInt(in.nextLine());
