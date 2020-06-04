@@ -9,7 +9,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Problem10 {
 
 static int B, H;
 static boolean flag;
