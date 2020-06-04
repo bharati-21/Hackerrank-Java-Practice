@@ -8,7 +8,7 @@ import java.util.Scanner;
 class UsernameValidator {
     public static final String regularExpression = "^[A-Za-z]\\w{7,29}";
 }
-public class Solution {
+public class Problem24 {
     private static final Scanner scan = new Scanner(System.in);
     public static void main(String[] args) {
         int n = Integer.parseInt(scan.nextLine());
