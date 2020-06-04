@@ -6,7 +6,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-stdin-stdout/problem
 
 import java.util.Scanner;
 
-public class Solution {
+public class Problem4 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();
