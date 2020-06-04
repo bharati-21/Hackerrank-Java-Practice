@@ -7,7 +7,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-loops/problem?h_r=next
 import java.util.*;
 import java.io.*;
 
-class Solution{
+class Problem7 {
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
         int t=in.nextInt();
