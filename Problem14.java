@@ -48,7 +48,7 @@ class StudentSortingComparator implements Comparator<Student> {
     } 
 }
 
-public class Solution 
+public class Problem14 
 {
 	  public static void main(String[] args) {
 		    Scanner in = new Scanner(System.in);
