@@ -6,7 +6,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-anagrams/problem?h_r=n
 
 import java.util.Scanner;
 
-public class Solution {
+public class Problem19 {
     static boolean isAnagram(String a, String b) {
         a = a.toLowerCase();
         b = b.toLowerCase();
