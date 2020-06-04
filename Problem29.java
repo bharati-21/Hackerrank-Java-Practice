@@ -23,7 +23,7 @@ class Soccer extends Sports {
         System.out.println("Each team has 11 players in Soccer Class");
     }
 }
-public class Solution {
+public class Problem29 {
     public static void main(String []args) {
         Sports c1 = new Sports();
         Soccer c2 = new Soccer();
