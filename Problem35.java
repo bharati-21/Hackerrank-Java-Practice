@@ -5,7 +5,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-1d-array/problem
 // Solution :
 import java.util.*;
 
-public class Solution {
+public class Problem35 {
     public static boolean canWin(int leap, int[] game) {
         return isSolvable(leap, game, 0);
     }
