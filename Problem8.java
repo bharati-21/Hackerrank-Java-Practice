@@ -9,7 +9,7 @@ import java.io.*;
 
 
 
-class Solution {
+class Problem8 {
     public static void main(String []argh) {
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
