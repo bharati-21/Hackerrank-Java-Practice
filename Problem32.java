@@ -5,7 +5,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-iterator/problem
 // Solution :
 import java.util.*;
 
-public class Main {
+public class Problem32 {
     static Iterator func(ArrayList mylist) {
         Iterator it=mylist.iterator();
         while(it.hasNext()) {
