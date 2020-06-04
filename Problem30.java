@@ -21,7 +21,7 @@ class MotorCycle extends BiCycle {
         System.out.println("My ancestor is a cycle who is "+ temp );
 	  }
 }
-class Solution {
+class Problem30 {
 	  public static void main(String []args) {
 		    MotorCycle M=new MotorCycle();
 	  }
