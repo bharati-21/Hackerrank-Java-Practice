@@ -6,7 +6,7 @@ Problem Link : https://www.hackerrank.com/challenges/phone-book/problem
 import java.util.*;
 import java.io.*;
 
-class Solution {
+class Problem37 {
 	  public static void main(String []argh) {
 		    Scanner in = new Scanner(System.in);
 		    int n=in.nextInt();
