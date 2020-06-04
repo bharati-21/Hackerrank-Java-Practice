@@ -12,7 +12,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class Problem6 {
   private static final Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         int N = scanner.nextInt();
