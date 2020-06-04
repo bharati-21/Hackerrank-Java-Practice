@@ -7,7 +7,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-strings-introduction/p
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Problem15 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
