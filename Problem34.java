@@ -6,7 +6,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-arraylist/problem
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Problem34 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int n = s.nextInt();
