@@ -7,7 +7,7 @@ Problem Link : https://www.hackerrank.com/challenges/java-int-to-string/problem
 import java.util.*;
 import java.security.*;
 
-public class Solution {
+public class Problem11 {
     public static void main(String[] args) {
         DoNotTerminate.forbidExit();
         try {
